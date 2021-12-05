@@ -1,7 +1,6 @@
 # Hi there 👋
 ### Welcome to my Github Profile
-![Alt Text](<iframe src="https://giphy.com/embed/cFdHXXm5GhJsc" width="480" height="377" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc">via GIPHY</a></p>)
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **Amit-1001/Amit-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
