@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Welcome to my Github Profile
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc)
 
 <!--
 **Amit-1001/Amit-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
