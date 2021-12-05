@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amit-1001&theme=gruvbox" alt="Amit-Nitnaware"  /></p>
+![Amit's github stats](https://github-readme-stats.vercel.app/api?username=Amit-1001&show_icons=true&theme=tokyonight)
 
 <hr>
 
