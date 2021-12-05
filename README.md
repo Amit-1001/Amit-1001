@@ -28,3 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 😄 Pronouns: ... We/Us
+- ⚡ Fun fact: ... I am batman. 😎🦇 
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amit-1001&theme=gruvbox" alt="Amit-Nitnaware"  /></p>
+
+<hr>
