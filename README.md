@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Welcome to my Github Profile
-<hr>
+
 ![Alt Text](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 
 <!--
