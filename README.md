@@ -1,18 +1,7 @@
 # Hi there 👋
 ### Welcome to my Github Profile
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/amit-nitnaware/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:amit.nitnaware03@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/its_Amit10100"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
 
-<br>
-</p>
 
 <!--
 **Amit-1001/Amit-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +15,23 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything !
 - ⚡ Fun fact: I am batman. 😎🦇 
 
-
+<hr>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amit-1001&theme=gruvbox" alt="Amit-Nitnaware"  /></p>
 
 <hr>
+
+
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/amit-nitnaware/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:amit.nitnaware03@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://twitter.com/its_Amit10100"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+&emsp;
+
+<br>
+</p>
