@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on java full stack projects.
 - 💬 Ask me about anything !
 - ⚡ Fun fact: I am batman. 😎🦇 
+- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Amit-1001.Amit-1001)
 
 <hr>
 
