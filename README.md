@@ -1,5 +1,16 @@
 # Hi there 👋
 ### Welcome to my Github Profile
+
+<a href="#">
+  <img align="left" alt="Amit Nitnaware | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Amit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Amit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
 <!--
 **Amit-1001/Amit-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
