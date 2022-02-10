@@ -8,10 +8,9 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on machine learing project.
 - 🌱 I’m currently learning Java full stack development.                         
 - 😇 I’m looking to collaborate on java full stack projects.
+- 👨‍💻 I'm always open to learn new things.
 - 💬 Ask me about anything !
 - ⚡ Fun fact: I am batman. 😎🦇 
 
